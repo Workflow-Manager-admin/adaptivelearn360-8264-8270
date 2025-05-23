@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/adaptivelearn360-8264-8270/main_container_for_adaptivelearn360"
+}
