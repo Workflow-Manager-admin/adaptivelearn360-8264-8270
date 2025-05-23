@@ -1,0 +1,5 @@
+{
+  "task_description": "{'component_name': 'Main Container for AdaptiveLearn360', 'description': 'Primary container for AdaptiveLearn360 implementation: StudySync is a smart, adaptive study planner that dynamically adjusts study schedules, content priority, reminders, and UI layout based on user performance, habits, device type, and time of day. It personalizes the study experience to maximize efficiency, offering tailored focus and review sessions, and accessibility options.', 'framework': 'react', 'platform': 'web'}",
+  "tasks": {},
+  "next_task_id": 1
+}
